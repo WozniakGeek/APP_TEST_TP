@@ -1,0 +1,12 @@
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\bin\Debug\net5.0\TestAppTP.DAL.deps.json
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\bin\Debug\net5.0\TestAppTP.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\bin\Debug\net5.0\ref\TestAppTP.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\bin\Debug\net5.0\TestAppTP.DAL.pdb
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.csprojAssemblyReference.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.AssemblyInfoInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.AssemblyInfo.cs
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\ref\TestAppTP.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestAppTP.DAL\obj\Debug\net5.0\TestAppTP.DAL.pdb

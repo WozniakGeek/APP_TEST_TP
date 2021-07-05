@@ -1,0 +1,9 @@
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\bin\Debug\netstandard2.1\TestApp.DAL.deps.json
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\bin\Debug\netstandard2.1\TestApp.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\bin\Debug\netstandard2.1\TestApp.DAL.pdb
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.AssemblyInfoInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.AssemblyInfo.cs
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.pdb
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.DAL\obj\Debug\netstandard2.1\TestApp.DAL.csprojAssemblyReference.cache

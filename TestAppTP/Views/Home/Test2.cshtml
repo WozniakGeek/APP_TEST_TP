@@ -1,0 +1,91 @@
+﻿@model StudentViewModel;
+
+@{
+    ViewData["Title"] = "Tes2 Page";
+
+}
+
+
+<div class="text-center">
+
+    <br />
+    <h1 class="display-4">Test 2</h1>
+    <p></p>
+</div>
+
+@if(TempData["Message"]!=null){
+    <div class="">
+        @TempData["Message"]
+
+
+    </div>
+}
+
+<div class="border">
+    <form method="post" asp-action="Test2">
+        <div class="container" style="padding:30px;">
+            <div class="row">
+                <div class="col-sm-2">
+                    <label>Documento</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="number" asp-for="@Model.Document" />
+                </div>
+                <span asp-validation-for="@Model.Document" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 ">
+                    <label>Nombre</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="text" asp-for="@Model.Name" />
+                </div>
+                <span asp-validation-for="@Model.Name" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 ">
+                    <label>Apellido</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="text" asp-for="@Model.LastName" />
+                </div>
+                <span asp-validation-for="@Model.LastName" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 ">
+                    <label>Nota 1</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="number" asp-for="@Model.Note1" />
+                </div>
+                <span asp-validation-for="@Model.Note1" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-sm-2 ">
+                    <label>Nota 2</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="number" asp-for="@Model.Note2" />
+                </div>
+                <span asp-validation-for="@Model.Note2" class="text-danger"></span>
+            </div>
+            <div class="row">
+                <div class="col-sm-2">
+                    <label>Nota 3</label>
+                </div>
+                <div class="col-sm-4 ">
+                    <input type="number" asp-for="@Model.Note3" />
+                </div>
+                <span asp-validation-for="@Model.Note2" class="text-danger"></span>
+            </div>
+
+            <br />
+            <div class="col-sm-4">
+                <input type="submit" class="btn-outline-primary form-control" value="Promedio" />
+            </div>
+        </div>
+    </form>
+</div>
+
+
+

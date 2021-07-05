@@ -1,0 +1,9 @@
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\bin\Debug\netstandard2.1\TestApp.BLL.deps.json
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\bin\Debug\netstandard2.1\TestApp.BLL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\bin\Debug\netstandard2.1\TestApp.BLL.pdb
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.AssemblyInfoInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.AssemblyInfo.cs
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.dll
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.pdb
+C:\Users\rgaona\source\repos\TestAppTP\TestApp.BLL\obj\Debug\netstandard2.1\TestApp.BLL.csprojAssemblyReference.cache
